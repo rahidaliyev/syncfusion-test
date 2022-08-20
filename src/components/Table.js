@@ -1,7 +1,8 @@
 import * as React from 'react';
 import { GridComponent, ColumnsDirective, ColumnDirective, Inject, Page, Edit, CommandColumn } from '@syncfusion/ej2-react-grids';
 import  data  from '../data.json';
-export default function  CommandColumnEdit(){
+export default function Table(){
+
     const editSettings = { allowEditing: true, allowAdding: true, allowDeleting: true, allowEditOnDblClick: false,showDeleteConfirmDialog: true };
     const validationRule = { required: true };
     const commands = [
