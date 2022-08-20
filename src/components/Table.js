@@ -13,7 +13,7 @@ export default function Table(){
         { type: 'Save', buttonOption: { iconCss: 'e-icons e-update', cssClass: 'e-flat' } },
         { type: 'Cancel', buttonOption: { iconCss: 'e-icons e-cancel-icon', cssClass: 'e-flat' } }
       ];
-        return <div className='control-pane'>
+        return <div enablePersistence={true} className='control-pane'>
         <div className='control-section'>
           <GridComponent  dataSource={data} id='gridcomp'  allowPaging={true} pageSettings={{ pageCount: 5 }} editSettings={editSettings}>
             <ColumnsDirective>
