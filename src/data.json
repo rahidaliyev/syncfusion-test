@@ -32,7 +32,7 @@
 },
 {
         "taskId": 5,
-        "taskName":"Cable Installation",
+        "taskName":"Cable Repairing",
         "taskStatus": 1,
         "parentId": 1
 },
@@ -44,7 +44,7 @@
 },
 {
         "taskId": 7,
-        "taskName":"Cable Installation",
+        "taskName":"Installing of televisions",
         "taskStatus": 1,
         "parentId": 1
 },
@@ -56,13 +56,13 @@
 },
 {
         "taskId": 9,
-        "taskName":"Cable Installation",
+        "taskName":"Performing maintenance",
         "taskStatus": 1,
         "parentId": 1
 },
 {
         "taskId": 10,
-        "taskName":"Cable Installation",
+        "taskName":"Troubleshooting issues",
         "taskStatus": 1,
         "parentId": 1
 },
@@ -74,7 +74,7 @@
 },
 {
         "taskId": 12,
-        "taskName":"Cable Installation",
+        "taskName":"Cable Repairing",
         "taskStatus": 1,
         "parentId": 1
 },
@@ -86,13 +86,13 @@
 },
 {
         "taskId": 14,
-        "taskName":"Cable Installation",
+        "taskName":"Tray Repairing",
         "taskStatus": 1,
         "parentId": 1
 },
 {
         "taskId": 15,
-        "taskName":"Cable Installation",
+        "taskName":"Troubleshooting issues",
         "taskStatus": 1,
         "parentId": 1
 },
@@ -104,25 +104,25 @@
 },
 {
         "taskId": 17,
-        "taskName":"Cable Installation",
+        "taskName":"Cable Repairing",
         "taskStatus": 1,
         "parentId": 1
 },
 {
         "taskId": 18,
-        "taskName":"Cable Installation",
+        "taskName":"Tray Installation",
         "taskStatus": 1,
         "parentId": 1
 },
 {
         "taskId": 19,
-        "taskName":"Cable Installation",
+        "taskName":"Cable Repairing",
         "taskStatus": 1,
         "parentId": 1
 },
 {
         "taskId": 20,
-        "taskName":"Cable Installation",
+        "taskName":"Troubleshooting issues",
         "taskStatus": 1,
         "parentId": 1
 },{
